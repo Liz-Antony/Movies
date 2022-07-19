@@ -1,0 +1,115 @@
+
+*     {
+  box-sizing: border-box;
+}
+html,
+body   {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+
+body     {
+  background: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url('http://logichunt.com/wp-content/uploads/product/screenshot/2058/5.png')
+}
+
+
+header   {
+  background: #222;
+  color: #FFF;
+  padding: 20px 30px;
+}
+
+#grid-layout  {
+  display: grid;
+  grid-template-columns: auto auto;
+
+  
+  grid-gap: 20px;
+
+  
+}
+
+
+div.cell {
+  
+ 
+  padding: 10px;
+}
+
+.cell {
+  padding: 10px;
+}
+#my_image {width:180px; height:300px; }
+
+
+
+
+
+footer   {
+  background: #222;
+  color: #777;
+  padding: 40px;
+  text-align: center;
+}
+
+
+
+.site-section   {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.site-section-secondary   {
+  background: #EFEFEF;
+}
+.site-section-inside   {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.section-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.section-header h2  {
+  font-size: 60px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: white;
+}
+
+.flex-container {
+  display: flex;
+
+}
+
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+
+.feature-box   {
+  display: inline-block;
+  width: 48%;
+  padding: 100px 100px;
+}
+.feature-box img  {
+  margin-bottom: 600px;
+  width: 350px;
+}
+.feature-box h5   {
+  font-size: 40px;
+  color: yellow;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin: 0;
+}
+

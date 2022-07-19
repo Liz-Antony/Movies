@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+            <h4>Elizabeth Antony</h4>
+			
+         
+         
+		 </head>
+		 
+		 
+		 
+		 <h2>HTML Image</h2>
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+<style>
+
+table{
+  background-color: lightblue;
+}
+</style>
+
+<body>
+
+<table class="About_Me">
+
+
+<tbody>
+
+
+<tr>
+<td>Student Number</td>
+<td>91666601</td>
+</tr>
+<tr>
+<td>Main Sheridan Campus</td>
+<td>Trafalgar</td>
+</tr>
+<tr>
+<td>Country where Born</td>
+<td>India</td>
+</tr>
+<tr>
+<td>Favourite Animal</td>
+<td>Dog</td>
+</tr>
+
+</body>
+</html>
